@@ -27,3 +27,5 @@ Download [train set](https://drive.google.com/file/d/1k25FpVP4pG3ER3eXsR-go_iprZ
          ...
      -- ood.json
 ```
+Due to our use of [MMDetection](https://github.com/open-mmlab/mmdetection) as our foundation framework, only minimal modifications were required. 
+In this section, we will outline the specific file changes we made to implement our approach.
